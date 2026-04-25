@@ -1,0 +1,2 @@
+$x=2,y=1$
+x*y*sin(x+y)*exp(x-y)
